@@ -1,2 +1,2 @@
 # KNN_MNIST
-classification of handwritten digits using KNN
+Classification of Handwritten digits using K-nearest neighbours implemeted from scratch
